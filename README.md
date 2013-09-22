@@ -13,8 +13,12 @@ exportは、web-export となり、同名のディレクトリが出来る。基
 * [2.0でなにが変わる](http://labs.uechoco.com/blog/2012/12/processing2-0で何が変わる？.html)
 
 boids
-----------------
+----
 
 * [processing2 / Flocks](http://processing.org/examples/flocking.html)
 * [boidsのテスト](http://null-null.net/blog/2007/11/570.php)
 
+langton's ant
+----
+
+[langton's ant wiki](http://en.m.wikipedia.org/wiki/Langton's_ant)
