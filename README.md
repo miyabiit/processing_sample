@@ -21,4 +21,14 @@ boids
 langton's ant
 ----
 
-[langton's ant wiki](http://en.m.wikipedia.org/wiki/Langton's_ant)
+* [langton's ant wiki](http://en.m.wikipedia.org/wiki/Langton's_ant)
+
+processing.js では、delay()はサポートしていない。
+
+----
+
+* [バラ曲線](http://blog.livedoor.jp/reona396/archives/54660457.html)
+
+java appletがインストールされないという問題がまた発生。
+
+
