@@ -25,6 +25,7 @@ langton's ant
 
 processing.js では、delay()はサポートしていない。
 
+バラ曲線
 ----
 
 * [バラ曲線](http://blog.livedoor.jp/reona396/archives/54660457.html)
