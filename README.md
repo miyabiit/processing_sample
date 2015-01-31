@@ -33,3 +33,23 @@ processing.js では、delay()はサポートしていない。
 java appletがインストールされないという問題がまた発生。
 
 
+SPORE
+----
+
+pore 1 by Mike Davis. 
+
+A short program for alife experiments. Click in the window to restart. Each cell is represented by a pixel on the display as well as an entry in the array 'cells'. Each cell has a run() method, which performs actions based on the cell's surroundings. Cells run one at a time (to avoid conflicts like wanting to move to the same space) and in random order.
+
+### PORE 作者 Mike Davis
+
+A-Life(人工生命)の実験のための短いプログラム。クリックするとウインドウが再起動します。
+各セルは、画面のピクセルで表現され、セル配列に格納されてます。
+各セルは、run()メソッドを持ち、セルの周囲の状況に基づき行動します。
+セル配列は、１シミュレーション時間に、一回活動します。それは、同じ空間に移動したがるような障害を避けるためです。また、無作為に命令されます。
+
+The nature of code
+==================
+
+book Nature of Code のお勉強
+
+
